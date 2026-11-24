@@ -1,0 +1,9 @@
+# Baza de date locala (se creeaza automat cu date demo la pornire)
+media.db
+
+# Mediu virtual si fisiere temporare Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
